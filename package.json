@@ -98,7 +98,7 @@
     "@appium/support": "file:packages/support",
     "@appium/test-support": "file:packages/test-support",
     "@appium/types": "file:packages/types",
-    "@appium/universal-xml-plugin": "file:packages/universal-xml-plugin",
+    "@appium/universal-xml-plugin": "1.0.10",
     "appium": "file:packages/appium",
     "glob": "8.0.3"
   },

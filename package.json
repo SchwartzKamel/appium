@@ -89,7 +89,7 @@
     "@appium/execute-driver-plugin": "file:packages/execute-driver-plugin",
     "@appium/fake-driver": "file:packages/fake-driver",
     "@appium/fake-plugin": "file:packages/fake-plugin",
-    "@appium/gulp-plugins": "file:packages/gulp-plugins",
+    "@appium/gulp-plugins": "8.0.0",
     "@appium/images-plugin": "file:packages/images-plugin",
     "@appium/opencv": "file:packages/opencv",
     "@appium/plugin-test-support": "file:packages/plugin-test-support",

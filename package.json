@@ -83,7 +83,7 @@
     "@appium/base-driver": "file:packages/base-driver",
     "@appium/base-plugin": "file:packages/base-plugin",
     "@appium/doctor": "file:packages/doctor",
-    "@appium/docutils": "file:packages/docutils",
+    "@appium/docutils": "0.1.0",
     "@appium/driver-test-support": "file:packages/driver-test-support",
     "@appium/eslint-config-appium": "file:packages/eslint-config-appium",
     "@appium/execute-driver-plugin": "file:packages/execute-driver-plugin",
@@ -99,7 +99,7 @@
     "@appium/test-support": "file:packages/test-support",
     "@appium/types": "file:packages/types",
     "@appium/universal-xml-plugin": "file:packages/universal-xml-plugin",
-    "appium": "file:packages/appium",
+    "appium": "2.0.0",
     "glob": "8.0.3"
   },
   "devDependencies": {
